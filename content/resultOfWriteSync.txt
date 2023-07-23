@@ -1,0 +1,5 @@
+This file os the result of writeFileSync the lines are 
+ Hello this is the first text file. 
+ Hello this is the second text file. This file os the result of writeFileSync the lines are 
+ Hello this is the first text file. 
+ Hello this is the second text file.
